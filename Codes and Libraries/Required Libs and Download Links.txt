@@ -1,0 +1,5 @@
+Required Libs:
+
+AF Motor (AdaFruit) Library - https://www.arduinolibraries.info/libraries/adafruit-motor-shield-v2-library
+New_Ping Library - https://bitbucket.org/teckel12/arduino-new-ping/downloads/
+Servo Library - https://www.arduino.cc/reference/en/libraries/servo/

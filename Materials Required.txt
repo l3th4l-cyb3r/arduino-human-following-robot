@@ -1,0 +1,15 @@
+Required Materials:
+
+Arduino Uno - https://amzn.to/35flEXS
+Motor Driver - https://amzn.to/30Z9ijj
+TT Gear Motor and Wheels - https://amzn.to/31WSD0Z
+Servo Motor - https://amzn.to/2IAigNH
+Acrylic Piece - 
+Ultrasonic Sensor - https://amzn.to/33fwrQa
+Infrared Sensor - https://amz.run/589B
+18650 Li-on Battery (2x) - https://bit.ly/2CZabQ7
+18650 Battery Holder - https://amzn.to/33iY4b3
+Male and Female Jumper wire - https://amzn.to/2MmRjOE
+Acrylic Sheet - (Local Store)
+DC Power Switch - https://bit.ly/2FtyEzs
+Screw Driver - (Local Store)
