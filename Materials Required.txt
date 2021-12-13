@@ -1,4 +1,4 @@
-Required Materials:
+Required Materials with their links:
 
 Arduino Uno - https://tinyurl.com/yyf9uy4u
 Motor Driver - tinyurl.com/y67l66sg
@@ -13,7 +13,6 @@ Acrylic Sheet - (Local Store)
 DC Power Switch - https://bit.ly/2FtyEzs
 Screw Driver - (Local Store)
 
-Muhammad: 800
-
-Remaining Total Price: 1464
-Each Person: 292/300
+Prices:
+Total Price: 2305
+Each Person: 385
